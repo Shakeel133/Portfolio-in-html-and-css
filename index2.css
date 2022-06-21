@@ -1,0 +1,24 @@
+body{
+	font-size:20px;
+}
+body{
+	background-color:lightblue;
+}
+pre{
+	background-color:green;
+}
+footer{
+	background-color:blue;
+}
+br{
+	background-color:red;
+}
+.clip-circle{
+	clip-path:circle(46.1% at 50% 50%);
+}
+
+html{
+		padding:5px solid yellow;
+		border:30px solid red;
+		margin:30px solid yellow;
+	}
